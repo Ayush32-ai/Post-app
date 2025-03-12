@@ -14,4 +14,4 @@ This Flutter app fetches and displays posts from an API in a style similar to Re
    dependencies:
      flutter:
        sdk: flutter
-     http: ^0.13.3  # or the latest version
+       http: ^1.3.0 # or the latest version
